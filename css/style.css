@@ -9680,6 +9680,18 @@ textarea.form-control {
     padding-top: 1rem;
   }
 
+  .menuColor{
+    color: #6c757d;
+  }
+  .menuText{
+    font-family: "Poppins", Arial, sans-serif;
+    background: #000000;
+    font-size: 16px;
+    line-height: 1.8;
+    font-weight: 400;
+    color: #999999;
+  }
+
 @-webkit-keyframes loader-rotate {
   100% {
     -webkit-transform: rotate(360deg);
